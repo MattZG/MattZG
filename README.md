@@ -1,6 +1,6 @@
 ## Greetings, traveler 👋
 
-My name is Matias Zamorano. I am a physicist with advanced studies in cosmology and I am currently dedicated to data science.
+My name is Matías Zamorano. I am a physicist with advanced studies in cosmology and I am currently dedicated to data science.
 
 Some things about me:
 
